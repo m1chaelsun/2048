@@ -1,6 +1,4 @@
 /**
- * Name: Michael Sun
- * Pennkey: m1chaels
  * Execution: java Game2048
  *
  * Program Description: Runs Board and Tile to execute a 2048 game. Use WASD to move.
