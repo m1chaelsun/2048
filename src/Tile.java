@@ -1,6 +1,4 @@
 /**
- * Name: Michael Sun
- * Pennkey: m1chaels
  * Execution: java Tile
  *
  * Program Description: Creates Tile objects that represent the up to 16
