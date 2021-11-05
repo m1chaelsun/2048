@@ -1,6 +1,4 @@
 /**
- * Name: Michael Sun
- * Pennkey: m1chaels
  * Execution: java Board
  *
  * Program Description: Creates a representation of the 2048 Board as a 2D array.
